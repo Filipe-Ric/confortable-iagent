@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+tiktoken
+faiss-cpu
+langchain
+langchain-openai
+pandas
+python-dotenv
+streamlit
+pytest
+pydantic
+httpx
+openai
+
